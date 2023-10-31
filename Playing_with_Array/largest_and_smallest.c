@@ -1,4 +1,6 @@
+//author Sila2000
 //find out the largest and smallest element in the vector (1D array)
+
 #include <stdio.h>
 
 main()
