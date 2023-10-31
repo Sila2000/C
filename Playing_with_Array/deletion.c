@@ -20,7 +20,7 @@ main()
     scanf("%d", &post_del);
 
     if(post_del < 0 || post_del > size)
-        printf("Index of deletion must be greater than or equal to 0 and less than or equal to %d\nThere is no DELETION.", size);
+        printf("Index of deletion must be greater than or equal to 0 and less than or equal to %d\nThere will be no DELETION.", size);
     
     else
     {
