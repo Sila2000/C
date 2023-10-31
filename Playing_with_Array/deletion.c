@@ -1,5 +1,5 @@
 //Sila2000
-//Insertion
+//Deletion
 
 #include<stdio.h>
 
