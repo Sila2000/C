@@ -1,7 +1,6 @@
 //Sila2000
 //multiplication of two array
 
-
 #include<stdio.h>
 
 main()
