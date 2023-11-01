@@ -13,10 +13,10 @@ main()
     scanf("%d", &col);
 
     if (row == 0 && col == 0)
-        printf("Zero Vector");
+        printf("\nIt is a Zero Vector.\nTranspose is also a Zero Vector.");
     
     else if (row == 0 || col == 0)
-        printf("\nOne of the dimensions of the array must be greater than 0.\nPlease try again to obtain transpose!");
+        printf("\nOne of the dimensions of the array must be greater than 0.\nPlease try again to obtain transpose of the array!");
 
     else
     {
